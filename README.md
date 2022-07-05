@@ -8,5 +8,7 @@
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackson-viana-99534b165/)
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 
+<div style="display: inline_block" height="140px" width="50%" align="left" margin="0" padding="5px">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackS1o&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackS1o&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
