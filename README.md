@@ -26,7 +26,7 @@
 
 <!-- ## CONTACT -->
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackson-viana-99534b165/)
-[![PORTFOLIO](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://my-portfolio-jacks1o.vercel.app/)
+[![PORTFOLIO](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://my-portfolio-9tvsb8612-jacks1o.vercel.app/)
 <!-- <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" href="https://my-portfolio-jacks1o.vercel.app/" target="_blank"> -->
 <!-- [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox) -->
 
