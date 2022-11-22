@@ -37,9 +37,6 @@
 
 #
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackS1o&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackS1o&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) -->
-
 <div style="display: inline_block" >
   <a href="https://github.com/JackS1o">
   <img height="140px" width="50%" align="left" margin="0" src="https://github-readme-stats.vercel.app/api?username=JackS1o&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide=issues&locale=pt-br"/> 
