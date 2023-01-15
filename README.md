@@ -48,3 +48,8 @@
   <img height="140px" align="right" width="43%" margin="0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackS1o&layout=compact&langs_count=7&theme=gotham&locale=pt-br"/>
   </a>
 </div>
+  
+## Total de visitas no meu perfil <br>
+ <p align="center"> 
+   <img target="_blank" alingn="center" src="https://profile-counter.glitch.me/JackS1o/count.svg" />
+ </p>
