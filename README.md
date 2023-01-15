@@ -38,8 +38,6 @@
   <img height="140px" align="right" width="43%" margin="0" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JackS1o&layout=compact&langs_count=7&theme=gotham&locale=pt-br"/>
   </a>
 </div>
-  
-#
 
 <div align-items="center" justify-content="center" align-items: "center" style="display: inline_block">
  <img target="_blank" alingn="center" src="https://profile-counter.glitch.me/JackS1o/count.svg" />
