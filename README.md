@@ -4,10 +4,8 @@
 
 <br>
 
-<!-- # STACKS -->
 #
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <!-- <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" height="30" width="40" src="https://camo.githubusercontent.com/2b6b50702c658cdfcf440cef1eb88c7e0e5a16ce0eb6ab8bc933da7697c12213/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656475782f72656475782d6f726967696e616c2e737667">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/testing-library/dom-testing-library/main/other/octopus.png">
@@ -24,17 +22,9 @@
   
 #
 
-<!-- ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) -->
-<!-- ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) -->
-<!-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) -->
-<!-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) -->
-
-<!-- ## CONTACT -->
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackson-viana-99534b165/)
 [![PORTFOLIO](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://my-portfolio-jacks1o.vercel.app/)
-<!-- <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" href="https://my-portfolio-jacks1o.vercel.app/" target="_blank"> -->
-<!-- [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox) -->
-
+  
 #
 
 <div style="display: inline_block" >
@@ -49,7 +39,10 @@
   </a>
 </div>
   
-## Total de visitas no meu perfil <br>
- <p align="center"> 
-   <img target="_blank" alingn="center" src="https://profile-counter.glitch.me/JackS1o/count.svg" />
- </p>
+#
+
+<div align-items="center" justify-content="center" align-items: "center" style="display: inline_block">
+ <img target="_blank" alingn="center" src="https://profile-counter.glitch.me/JackS1o/count.svg" />
+  <p>Número de visitas no meu perfil</p>
+</div>
+  
