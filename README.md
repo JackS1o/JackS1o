@@ -19,7 +19,8 @@
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" />
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original-wordmark.svg" />
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />
-  
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" />
+
 #
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackson-viana-99534b165/)
