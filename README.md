@@ -44,4 +44,4 @@
  <img target="_blank" alingn="center" src="https://profile-counter.glitch.me/JackS1o/count.svg" />
   <p>Número de visitas no meu perfil</p>
 </div>
-  
+ 
